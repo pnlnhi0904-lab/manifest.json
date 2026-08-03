@@ -1,0 +1,7 @@
+{
+    "display_name": "System Status HUD",
+    "name": "system-status",
+    "version": "1.0.0",
+    "description": "Hiển thị bảng trạng thái hệ thống cho SillyTavern",
+    "author": "User"
+}
